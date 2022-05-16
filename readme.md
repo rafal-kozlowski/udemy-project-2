@@ -1,6 +1,6 @@
-#Project 2
+# Project 2
 
 ---------------------------------
-##Description
+## Description
 
 My first bigger repository placed on github
